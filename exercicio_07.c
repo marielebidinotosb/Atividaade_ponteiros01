@@ -1,4 +1,4 @@
-#include <stdio.h> // ou <stdio.h> em ambiente padrão
+#include <stdio.h>
 
 int main() {
     int valores[] = {1, 2, 3, 4, 5, 6};
